@@ -1,2 +1,2 @@
 # Sriramprojects
-is a collection of all the programs i feel are noteworthy
+is a collection of all the programs i made
